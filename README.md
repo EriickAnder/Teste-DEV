@@ -5,7 +5,7 @@ Requisitos:
 PHP
 Banco de dados
 
-Desejável:
+Desejável:Cancel changes
 Laravel
 
 Descrição do teste:
@@ -24,6 +24,8 @@ CPF
 Entrega:
 
 Mandar o link do repositório para análise
+
+Enviar para eriickanderson@gmail.com
 
 
 
