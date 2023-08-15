@@ -4,9 +4,9 @@ Não se preocupe caso não consiga finalizar o teste, é uma forma de analisar c
 Requisitos:
 PHP
 Banco de dados
-
-Desejável:Cancel changes
 Laravel
+
+
 
 Descrição do teste:
 Desenvolver um cadastro de clientes ( CRUD)
@@ -18,7 +18,6 @@ Telefone
 Endereço
 Data de nascimento
 CPF
-
 
 
 Entrega:
