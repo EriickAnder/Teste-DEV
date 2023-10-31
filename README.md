@@ -1,9 +1,10 @@
-Teste prático - DEV PHP JR
-Não se preocupe caso não consiga finalizar o teste, é uma forma de analisar como você pesquisa, programa e resolve os desafios de programação, mas seria legal vê-lo pronto.
+Teste prático - 
+Olá caro desenvolvedor, nesse teste analisaremos seu conhecimento geral e inclusive velocidade de desenvolvimento. Abaixo explicaremos tudo o que será necessário.
 
 Requisitos:
 PHP
-Banco de dados
+Banco de dados MYSQL
+Bootstrap
 Laravel
 
 
@@ -15,9 +16,15 @@ Dados:
 
 Nome
 Telefone
+CEP
 Endereço
+Estado
+Cidade
+Bairro
+Numero
+Complemento
 Data de nascimento
-CPF
+CPF ( campo validado)
 
 
 Entrega:
@@ -28,4 +35,4 @@ Enviar para eriickanderson@gmail.com
 
 
 
-Prazo: Analisar o teste e informar o prazo necessário
+
